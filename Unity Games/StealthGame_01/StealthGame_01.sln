@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StealthGame_01", "StealthGame_01.csproj", "{32B4AE3A-D390-3851-498F-F66F2357CDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B4AE3A-D390-3851-498F-F66F2357CDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B4AE3A-D390-3851-498F-F66F2357CDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B4AE3A-D390-3851-498F-F66F2357CDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B4AE3A-D390-3851-498F-F66F2357CDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
